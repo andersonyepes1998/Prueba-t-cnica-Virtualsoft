@@ -1,0 +1,7 @@
+{
+  "name": "prueba-virtualsoft",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}

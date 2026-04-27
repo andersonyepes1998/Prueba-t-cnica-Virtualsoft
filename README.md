@@ -1,3 +1,6 @@
+<img <img width="610" height="1356" alt="WhatsApp Image 2026-04-26 at 10 19 58 PM (1)" src="https://github.com/user-attachments/assets/e2fcd074-1b36-4ca2-b063-4f3f91631d0d" />
+>
+
 # Proyecto Ionic + Capacitor + Vue
 
 Proyecto móvil híbrido desarrollado con **Ionic Framework**, **Capacitor** y **Vue 3**.
@@ -30,8 +33,10 @@ ionic --version
 
 ```bash
 
-git clone <url-del-repositorio>
-cd <nombre-del-proyecto>
+git clone <https://github.com/andersonyepes1998/Prueba-t-cnica-Virtualsoft.git>
+cd <prueba-virtualsoft><img width="610" height="1356" alt="WhatsApp Image 2026-04-26 at 10 19 58 PM" src="https://github.com/user-attachments/assets/c5f96b40-f65e-49f0-9041-e3ff58d7737c" />
+<img width="610" height="1356" alt="WhatsApp Image 2026-04-26 at 10 19 58 PM (1)" src="https://github.com/user-attachments/assets/b0d72da0-861f-4040-92f0-3807303ad8cd" />
+
 
 npm install
 ```
